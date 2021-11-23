@@ -1,0 +1,22 @@
+{
+    "name": "intellivision",
+    "description": "Video Processing sample using the google video intelligence API",
+    "version": "0.1.0",
+    "private": "true",
+    "type": "module",
+    "license": "Apache-2.0",
+    "bin": {
+      "video-intelligence-cli": "cli.js"
+    },
+    "dependencies": {
+      "@google-cloud/video-intelligence": "^3.4.1",
+      "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "inquirer": "^0.12.0"
+    },
+    "scripts": {
+      "start": "node index.js"
+    }
+  }
+  
