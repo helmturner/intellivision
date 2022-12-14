@@ -10,7 +10,7 @@
     },
     "dependencies": {
       "@google-cloud/video-intelligence": "^3.4.1",
-      "express": "^4.17.1"
+      "express": "^4.17.3"
     },
     "devDependencies": {
       "inquirer": "^0.12.0"
