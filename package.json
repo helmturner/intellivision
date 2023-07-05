@@ -9,7 +9,7 @@
       "video-intelligence-cli": "cli.js"
     },
     "dependencies": {
-      "@google-cloud/video-intelligence": "^3.4.1",
+      "@google-cloud/video-intelligence": "^4.2.3",
       "express": "^4.17.1"
     },
     "devDependencies": {
